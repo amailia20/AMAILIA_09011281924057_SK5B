@@ -1,1 +1,1 @@
-# Deteksi Tenaga Surya Menggunakan Artificial Neural Network
+# Deteksi Pembangkit Listrik Tenaga Surya Menggunakan Artificial Neural Network
